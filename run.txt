@@ -1,0 +1,16 @@
+1. From Excel
+    python agent.py --excel sample_contacts.xlsx
+
+
+2. websearch
+    python agent.py --search "New York"
+
+
+3. scrape
+
+    python agent.py --scrape https://site1.com https://site2.com https://site3.com
+
+
+4. both tools
+
+    python agent.py --both "Los Angeles" https://local-gym.com
